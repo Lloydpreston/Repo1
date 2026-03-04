@@ -1,4 +1,4 @@
-#  *if/else age verification*
+#  *if/elif/else age verification test*
 
 #   This code will determine wether a user is allowed to enter using "if/else" with the criteria being 18 or 16 with adult supervision.
 
